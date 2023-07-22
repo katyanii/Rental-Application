@@ -1,0 +1,8 @@
+Cop Costume Set  ,Cartmax    ,15  ,55
+Formal Suite     ,Megaplex   ,14.5,18
+Fairy Costume    ,DollarStore,18  ,18
+Thor Costume     ,Marvel INC ,23  ,24
+Pikachu Costume  ,Walmart    ,16  ,20
+Hulk Costume     ,Marvel INC ,12  ,11
+Spiderman Costume,Marvel INC ,28  ,11
+Skeleton Costume ,Megaplex   ,12.7,30
